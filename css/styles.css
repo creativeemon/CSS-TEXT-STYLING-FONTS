@@ -24,5 +24,12 @@
 
 .latter-spacing-text{
     font-size: 20px; 
-    letter-spacing: 2px;
+    letter-spacing: 1.75;
+}
+
+.text-aligment-element{
+    text-align: center;
+    background-color: black;
+    color: #fff;
+    padding: 20px;
 }

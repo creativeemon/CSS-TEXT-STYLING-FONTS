@@ -1,1 +1,17 @@
-/* custom css */
+.normal-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    color: blue;
+}
+.italic-text{
+    font-family: Georgia,  serif;
+    font-size: 18px;
+    font-style: italic;
+}
+
+.bold-text{
+    font-family: Verdana, sans-serif;
+    font-size: 20px;
+    font-style: bold;
+}
